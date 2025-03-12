@@ -19,7 +19,7 @@ Notre projet consiste à construire et comprendre la fabrication d’OTTO afin d
 
 Ici vous publierez le poster de votre projet.
 
-![Poster projet](images/poster.jpg)
+![Poster projet](images/poster1.jpg)
 
 ## Vidéo
 
