@@ -11,21 +11,17 @@ Cette section décrit la première étape du processus de fabrication : la prép
 
 ## Liste des Matériaux
 
-- Matériau A
-- Matériau B
-- Outils nécessaires
+- PVC
+- Carte électronique
+- Tourne-visse
 
 ## Procédure de Préparation
 
-1. **Nettoyage** : Nettoyez tous les matériaux pour enlever la poussière et les débris.
-2. **Découpe** : Découpez les matériaux A et B selon les dimensions spécifiées.
-3. **Prétraitement** : Appliquez un traitement de surface si nécessaire.
+1. **Impression** : Dès les premieres heures de conception des pieces du robot (pattes,tete,jambes).
+2. **Codage** : Nous avons réflechie puis codé pour qu'il puisse marcher.
+3. **Optimisation** : Nous avons réflechie pour qu'il puisse être le plus performant dans chaque épreuve .
 
-## Conseils de Sécurité
-
-- Portez toujours l'équipement de protection individuelle.
-- Suivez les instructions de sécurité des outils utilisés.
 
 ---
 
-Une fois cette étape terminée, passez à l'[Assemblage](/assemblage).
+Ensuite nous sommes passé à l'[Assemblage](/assemblage).
