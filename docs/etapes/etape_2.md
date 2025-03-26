@@ -22,4 +22,4 @@ Après la préparation des matériaux, l'étape suivante est l'assemblage.
 
 ## Problèmes Communs et Solutions
 
-- Si des pièces ne s'emboîtent pas correctement, vérifiez leur alignement et leur dimension
+- Troue trop petit pour insérer visse. Donc nous avons Une plus grosse visse pour agrandir le troue afin de pouvoir insérer les visses.
