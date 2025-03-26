@@ -24,4 +24,4 @@ Cette section décrit la première étape du processus de fabrication : la prép
 
 ---
 
-Ensuite nous sommes passé à l'[Assemblage](/assemblage).
+Ensuite nous sommes passé à l'[Assemblage](/etape_2).
