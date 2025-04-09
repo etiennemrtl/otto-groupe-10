@@ -24,4 +24,4 @@ Cette section décrit la première étape du processus de fabrication : la prép
 
 ---
 
-Ensuite nous sommes passé à l'[Assemblage](/etape_2.md).
+Ensuite nous sommes passé à l'[Assemblage](/etiennemrtl/otto-groupe-10/tree/main/docs/etapes_2.md).
