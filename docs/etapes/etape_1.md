@@ -14,6 +14,8 @@ Cette section décrit la première étape du processus de fabrication : la prép
 - PVC
 - Carte électronique
 - Tourne-visse
+- Cerveau moteur
+- Capteur
 
 ## Procédure de Préparation
 
@@ -24,4 +26,3 @@ Cette section décrit la première étape du processus de fabrication : la prép
 
 ---
 
-Ensuite nous sommes passé à l'[Assemblage](/etiennemrtl/otto-groupe-10/tree/main/docs/etapes_2.md).
