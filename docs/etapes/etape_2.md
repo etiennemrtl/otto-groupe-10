@@ -11,14 +11,16 @@ Après la préparation des matériaux, l'étape suivante est l'assemblage.
 
 ## Étapes d'Assemblage
 
-1. **Organisation** : Organisez tous les composants préparés.
-2. **Assemblage Initial** : Commencez par assembler les pièces principales.
-3. **Fixation** : Fixez solidement les pièces ensemble en utilisant les outils appropriés.
+1. **Organisation** : Organiser tous les composants préparés.
+2. **Assemblage Initial** : Commencer par assembler les pièces principales.
+3. **Fixation** : Fixer solidement les pièces ensemble en utilisant les outils appropriés.
 
 ## Vérifications à Effectuer
 
-- Assurez-vous que toutes les pièces sont correctement alignées.
-- Vérifiez la stabilité et la solidité de l'assemblage.
+- Toutes les fonctions de marche, sumo, course,...
+- La stabilité
+- Si il passe l'holomogation
+- Si les ajouts apportés ne gênent pas le robot dans sa marche ou sa stabilité.
 
 ## Problèmes Communs et Solutions
 
