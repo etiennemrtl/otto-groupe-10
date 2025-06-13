@@ -22,4 +22,6 @@ Après la préparation des matériaux, l'étape suivante est l'assemblage.
 
 ## Problèmes Communs et Solutions
 
-- Troue trop petit pour insérer visse. Donc nous avons Une plus grosse visse pour agrandir le troue afin de pouvoir insérer les visses.
+- Troue trop petit pour insérer visse. Donc nous avons Une plus grosse visse pour agrandir le troue afin de pouvoir insérer les visses.  
+- Probleme de calibrage sur les cerveau moteur (ils n'étaient pas à 90deg)
+
